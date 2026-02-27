@@ -1,4 +1,7 @@
 streamlit
 pandas
 reportlab
+matplotlib
+plotly
+pillow
 requests
